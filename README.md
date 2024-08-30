@@ -1,3 +1,7 @@
+objectives of this project are shown as below: 
+1. To identify the major medium for a company to promote a product or service. 
+2. To predict the sales based on different separation of budget.
+
 Linear regression may predict to find out the optimal medium for boosting sales while reducing the budget to a minimum
 
 
